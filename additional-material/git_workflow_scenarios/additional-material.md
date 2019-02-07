@@ -42,5 +42,9 @@ This document provides information about how to squash commits with an interacti
 This document provides information about how to undo a commit on your local repository. This is what you need to do when you feel you've messed up your local repository and wish to reset the local repository.
 > Take these steps if you want to undo/reset a local commit.
 
+### [Writing Good Commit Messages](writing-good-commit-messages.md)
+This document provides information about commit messages and resources for writing good commit messages. 
+> Read this to better understand the purpose of a commit message
+
 ### [Useful Links](Useful-links-for-further-learning.md)
 This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
